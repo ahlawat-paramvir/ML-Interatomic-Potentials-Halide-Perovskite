@@ -32,9 +32,9 @@ Project is created with:
 - ASE set up
 
 ## Features
-- Melting & crystallization of CsPbBr3
-- Brute force solid-solid phase transitions by co-existing simulations of CsPbI3
-- Various Polytypes of FAPbI3
+- Melting & crystallization of CsPbBr3 [1]
+- Brute force solid-solid phase transitions by co-existing simulations of CsPbI3 [2]
+- Various Polytypes of FAPbI3[3]
 - Thermal conductivity of CsSnI3 at different temperaturatures
 - Crystallization of narrow-band-gap perovskites
 - Crystallization of wide-band-gap perovskites
@@ -50,9 +50,9 @@ Project is created with:
 - Swiss National Science Foundation
 
 ## References
-- Constantinos C. Stoumpos, Christos D. Malliakas, and Mercouri G. Kanatzidis CCDC 968118: Experimental Crystal Structure Determination, 2013
-- 
-
+1. Lattice matched heterogeneous nucleation eliminate defective buried interface in halide perovskites." arXiv preprint arXiv:2405.11599 (2024)
+2. Size dependent solid-solid crystallization of halide perovskites. arXiv preprint arXiv:2404.05644 (2024)
+3. Crystallization of FAPbI3: Polytypes and stacking faults." The Journal of Chemical Physics 159.15 (2023)
 
 
 
