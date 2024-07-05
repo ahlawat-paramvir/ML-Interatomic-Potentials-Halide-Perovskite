@@ -24,11 +24,8 @@
 
 ## Codes Used
 Project is created with:
-* ASE: 
-* Jupyter-notebooks: 
-* AIIDA: 
 * VASP:
-
+* Nequip:
   
 ## Usage
 - Lammmps set up
