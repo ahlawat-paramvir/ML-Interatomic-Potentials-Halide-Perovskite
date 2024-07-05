@@ -15,7 +15,7 @@
 
 
 ## General Information
-- Use experimental structures[a-f] of halide perovskites 
+- Use experimental structures [a-f] of halide perovskites 
 
 
 ## Building structures
