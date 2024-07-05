@@ -27,8 +27,8 @@
 * Nequip:
 * MACE:
 * ACE:
+* NEP-GPUMD: 
 * PLUMED:
-* GPUMD: 
   
 ## Usage
 - Lammps set up
