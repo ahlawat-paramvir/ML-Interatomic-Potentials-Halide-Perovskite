@@ -68,5 +68,5 @@
 
 
 ## Contact
-Created by [@paramvir]() - feel free to contact me!
+Issues 
 
