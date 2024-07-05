@@ -37,6 +37,9 @@
 ## Features
 - Melting & crystallization of CsPbBr3 [1]
 - Brute force solid-solid phase transitions by co-existing simulations of CsPbI3 [2]
+![new_gif](https://github.com/ahlawat-paramvir/MLIP-Perovskites/assets/10708344/1f028241-0ac0-4797-ba8a-91ec38bfbfea)
+
+  
 - Various Polytypes of FAPbI3 [3]
 - Crystallization of narrow-band-gap perovskites 
 - Crystallization of wide-band-gap perovskites
