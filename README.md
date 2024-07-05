@@ -30,7 +30,7 @@
 * GPUMD: 
   
 ## Usage
-- Lammmps set up
+- Lammps set up
 - ASE set up
 
 ## Features
