@@ -46,8 +46,8 @@
 
   
 - Various Polytypes of FAPbI3 [3]
-- Crystallization of narrow-band-gap perovskites 
-- Crystallization of wide-band-gap perovskites
+- Crystallization of narrow-band-gap perovskite 
+- Crystallization of wide-band-gap perovskite
 - Heterogeneous nucleation
 - Phase diagrams
 - Phonon density of states
