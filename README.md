@@ -56,7 +56,7 @@
 ## Ongoing 
 - Quasi-2D perovskites
 - Solvent mixtures
-- Crystal growth from solutions
+- Nucleation from solutions
 
 ## Acknowledgements
 - Swiss National Science Foundation
