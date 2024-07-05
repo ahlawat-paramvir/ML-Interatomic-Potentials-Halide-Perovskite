@@ -51,7 +51,7 @@
 - Heterogeneous nucleation
 - Phase diagrams
 - Phonon density of states
-- Thermal conductivity of CsSnI3 at different temperaturatures 
+- Thermal conductivity 
 
 ## Ongoing 
 - Quasi-2D perovskites
