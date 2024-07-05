@@ -1,5 +1,5 @@
 # Project Name
-> Molecular dynamics simultions of halide perovskites using machine learning inter-atomic potentials
+> Molecular dynamics simulations of halide perovskites using machine learning inter-atomic potentials
 
 ## Table of Contents
 * [General Info](#general-information)
