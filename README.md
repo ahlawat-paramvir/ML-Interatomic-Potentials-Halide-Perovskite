@@ -38,10 +38,12 @@
 - Melting & crystallization of CsPbBr3 [1]
 - Brute force solid-solid phase transitions by co-existing simulations of CsPbI3 [2]
 - Various Polytypes of FAPbI3 [3]
-- Thermal conductivity of CsSnI3 at different temperaturatures 
 - Crystallization of narrow-band-gap perovskites 
-- Crystallization of wide-band-gap perovskites 
-- Phonon density of states 
+- Crystallization of wide-band-gap perovskites
+- Heterogeneous nucleation
+- Phase diagrams
+- Phonon density of states
+- Thermal conductivity of CsSnI3 at different temperaturatures 
 
 ## Ongoing 
 - Quasi-2D perovskites
