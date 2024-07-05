@@ -40,6 +40,7 @@
 - Thermal conductivity of CsSnI3 at different temperaturatures
 - Crystallization of narrow-band-gap perovskites
 - Crystallization of wide-band-gap perovskites
+- Phonon density of states 
 
 ## Ongoing 
 - Mixed organic-inorganic perovskites
