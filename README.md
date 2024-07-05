@@ -1,6 +1,5 @@
 # Project Name
-> Surface slab calculations for halide perovskites
-> Live demo [_here_]
+> Molecular dynamics simultions of halide perovskites using machine learning inter-atomic potentials
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,20 +11,23 @@
 * [Acknowledgements](#acknowledgements)
 * [References](#references)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## General Information
-- Use jupyter-notebook with ASE to make supercell, slabs and all kind of structures from experimental unit cell of perovskites 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Use experimental structures[a-f] of halide perovskites 
+
 
 ## Building structures
-
+- Use ASE and notebooks for constructing supercells 
 
 ## Codes Used
-Project is created with:
 * VASP:
 * Nequip:
+* ASE:
+* MACE:
+* ACE: 
+* GPUMD: 
   
 ## Usage
 - Lammmps set up
@@ -45,7 +47,6 @@ Project is created with:
 - Solvent mixtures
 - Crystal growth from solutions
 
-
 ## Acknowledgements
 - Swiss National Science Foundation
 
@@ -55,13 +56,6 @@ Project is created with:
 3. Crystallization of FAPbI3: Polytypes and stacking faults." The Journal of Chemical Physics 159.15 (2023)
 
 
-
 ## Contact
 Created by [@paramvir]() - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
