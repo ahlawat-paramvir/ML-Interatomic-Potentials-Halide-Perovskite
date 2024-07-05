@@ -36,7 +36,12 @@
 
 ## Features
 - Melting & crystallization of CsPbBr3 [1]
+
+![melt_crystal](https://github.com/ahlawat-paramvir/MLIP-Perovskites/assets/10708344/803ad827-2fea-4ed7-8696-f46d1f5ee1fe)
+
+  
 - Brute force solid-solid phase transitions by co-existing simulations of CsPbI3 [2]
+  
 ![new_gif](https://github.com/ahlawat-paramvir/MLIP-Perovskites/assets/10708344/1f028241-0ac0-4797-ba8a-91ec38bfbfea)
 
   
