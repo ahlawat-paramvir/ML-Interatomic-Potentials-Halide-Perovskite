@@ -22,11 +22,12 @@
 - Use ASE and notebooks for constructing supercells 
 
 ## Codes Used
+* ASE:
 * VASP:
 * Nequip:
-* ASE:
 * MACE:
-* ACE: 
+* ACE:
+* PLUMED:
 * GPUMD: 
   
 ## Usage
