@@ -44,7 +44,6 @@
 - Phonon density of states 
 
 ## Ongoing 
-- Mixed organic-inorganic perovskites
 - Quasi-2D perovskites
 - Solvent mixtures
 - Crystal growth from solutions
