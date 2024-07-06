@@ -27,7 +27,8 @@
 * Nequip:
 * MACE:
 * ACE:
-* NEP-GPUMD: 
+* NEP-GPUMD:
+* LAMMPS: 
 * PLUMED:
   
 ## Usage
