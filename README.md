@@ -58,7 +58,7 @@
 - Solvent mixtures 
 - Nucleation from solutions
 - Defects and fermi level
-- I2 formation
+- I2 reaction 
 
 ## Acknowledgements
 - Swiss National Science Foundation
