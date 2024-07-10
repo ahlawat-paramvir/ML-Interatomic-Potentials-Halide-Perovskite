@@ -61,7 +61,7 @@
 - I2 reaction 
 
 ## Acknowledgements
-- Swiss National Science Foundation
+- Swiss National Science Foundation through post-doc mobility Fellowship No. P500PN_206693
 
 ## References
 1. Lattice matched heterogeneous nucleation eliminate defective buried interface in halide perovskites. arXiv preprint arXiv:2405.11599 (2024)
