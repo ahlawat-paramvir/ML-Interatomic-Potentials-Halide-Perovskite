@@ -15,7 +15,7 @@
 
 
 ## General Information
-- Use experimental structures [a-f] of halide perovskites 
+- Use experimental structures [a-g] of halide perovskites 
 
 
 ## Building structures
@@ -80,6 +80,8 @@
 [e] Hybrid germanium iodide perovskite semiconductors: active lone pairs, structural distortions, direct and indirect energy gaps, and strong nonlinear optical properties. Journal of the American Chemical Society 137.21 (2015): 6804-6819.
 
 [f] The many faces of mixed ion perovskites: unraveling and understanding the crystallization process. ACS Energy Letters 2.12 (2017): 2686-2693.
+
+[g] Structural Evolution and Photoluminescence Quenching across the FASnI3–x Br x (x= 0–3) Perovskites. Journal of the American Chemical Society (2024).
 
 ## Contact
 Issues 
