@@ -72,9 +72,13 @@
 [a] Semiconducting tin and lead iodide perovskites with organic cations: phase transitions, high mobilities, and near-infrared photoluminescent properties. Inorganic chemistry 52.15 (2013): 9019-9038.
 
 [b] CsSnI3: semiconductor or metal? High electrical conductivity and strong near-infrared photoluminescence from a single material. High hole mobility and phase-transitions. Journal of the american chemical society 134.20 (2012): 8579-8587.
+
 [c] Structure–band gap relationships in hexagonal polytypes and low-dimensional structures of hybrid tin iodide perovskites. Inorganic chemistry 56.1 (2017): 56-73.
+
 [d] Negative thermal quenching in FASnI3 perovskite single crystals and thin films. ACS energy letters 5.8 (2020): 2512-2519.
+
 [e] Hybrid germanium iodide perovskite semiconductors: active lone pairs, structural distortions, direct and indirect energy gaps, and strong nonlinear optical properties. Journal of the American Chemical Society 137.21 (2015): 6804-6819.
+
 [f] The many faces of mixed ion perovskites: unraveling and understanding the crystallization process. ACS Energy Letters 2.12 (2017): 2686-2693.
 
 ## Contact
