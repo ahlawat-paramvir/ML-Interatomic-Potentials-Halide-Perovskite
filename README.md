@@ -70,6 +70,7 @@
 4. Organic Spacers in 2D Perovskites: General Trends and Structure‐Property Relationships from Computational Studies. Helvetica Chimica Acta 104.4 (2021): e2000232
 
 [a] Semiconducting tin and lead iodide perovskites with organic cations: phase transitions, high mobilities, and near-infrared photoluminescent properties. Inorganic chemistry 52.15 (2013): 9019-9038.
+
 [b] CsSnI3: semiconductor or metal? High electrical conductivity and strong near-infrared photoluminescence from a single material. High hole mobility and phase-transitions. Journal of the american chemical society 134.20 (2012): 8579-8587.
 [c] Structure–band gap relationships in hexagonal polytypes and low-dimensional structures of hybrid tin iodide perovskites. Inorganic chemistry 56.1 (2017): 56-73.
 [d] Negative thermal quenching in FASnI3 perovskite single crystals and thin films. ACS energy letters 5.8 (2020): 2512-2519.
