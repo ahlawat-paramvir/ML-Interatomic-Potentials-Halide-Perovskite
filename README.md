@@ -46,12 +46,26 @@
 
   
 - Various Polytypes of FAPbI3 [3]
-- Crystallization of narrow-band-gap perovskite 
+
+- Homogeneous nucleation and Ostwald-step-rule
+  
+- Crystallization of narrow-band-gap perovskite
+
+  
 - Crystallization of wide-band-gap perovskite
+
+  
 - Heterogeneous nucleation
+
+  
 - Phase diagrams
+
+  
 - Phonon density of states
-- Thermal conductivity 
+
+  
+- Thermal conductivity
+  
 
 ## Ongoing 
 - Quasi-2D perovskites [4]
