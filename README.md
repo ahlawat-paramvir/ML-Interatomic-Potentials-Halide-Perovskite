@@ -47,7 +47,9 @@
   
 - Various Polytypes of FAPbI3 [3]
 
-- Homogeneous nucleation and Ostwald-step-rule
+
+- Homogeneous nucleation and Ostwald-step-rule [5]
+  
   
 - Crystallization of narrow-band-gap perovskite
 
@@ -82,6 +84,7 @@
 2. Size dependent solid-solid crystallization of halide perovskites. arXiv preprint arXiv:2404.05644 (2024)
 3. Crystallization of FAPbI3: Polytypes and stacking faults." The Journal of Chemical Physics 159.15 (2023)
 4. Organic Spacers in 2D Perovskites: General Trends and Structure‐Property Relationships from Computational Studies. Helvetica Chimica Acta 104.4 (2021): e2000232
+5. Homogeneous nucleation and the Ostwald step rule. Physical Chemistry Chemical Physics 1.9 (1999): 2191-2196.
 
 [a] Semiconducting tin and lead iodide perovskites with organic cations: phase transitions, high mobilities, and near-infrared photoluminescent properties. Inorganic chemistry 52.15 (2013): 9019-9038.
 
