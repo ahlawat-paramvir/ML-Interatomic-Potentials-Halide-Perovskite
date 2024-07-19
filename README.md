@@ -25,6 +25,8 @@
 * ASE:
 * VASP:
 * Nequip:
+* Nequip-Universal-MLIP:
+* SevenNet:
 * MACE:
 * ACE:
 * NEP-GPUMD:
