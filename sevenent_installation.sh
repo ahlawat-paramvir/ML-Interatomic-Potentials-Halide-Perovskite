@@ -14,8 +14,10 @@ source activate sevennet
 
 # install pytorch with matching cuda (11.7, 11.8 or 12.3) on kelvin
 pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu118
-pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.1.0+cu118.html
+pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.3.0+cu118.html
 pip install torch_geometric
+
+#pip install torch-scatter -f https://data.pyg.org/whl/torch-2.3.0+cu118.html
 
 # install sevennet 
 git clone https://github.com/MDIL-SNU/SevenNet.git
