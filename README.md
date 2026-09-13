@@ -106,6 +106,7 @@
 23. Controlled solid-state crystallization with formamidinium acetate for fully vacuum-deposited perovskite solar cells: Nat Energy (2026) https://doi.org/10.1038/s41560-026-02093-8
 24. Ligand-engineered nanocrystal seeds enable certified 27.07% steady-state efficiency in inverted perovskite solar cells: https://doi.org/10.1039/d6ee02888h
 25. Antiphase Boundaries Regulate Phase Stability and Performance in DMA+-Assisted CsPbI3-Based Perovskites: https://doi.org/10.1002/adma.74538
+26. Pyridinium Cations Act as Charge Reservoirs in Expanded Halide Perovskite Analogs at High Pressure: https://doi.org/10.1002/anie.2495859
     
 ## Fundamental Inspirations: Quantum Heterostructures
 1. https://www.nobelprize.org/uploads/2018/06/esaki-lecture.pdf
